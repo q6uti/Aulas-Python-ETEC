@@ -37,4 +37,3 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 
 ---
 
-Feito com 💻 e Python durante o curso técnico na ETEC.
