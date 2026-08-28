@@ -25,7 +25,7 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 ## 🐍 Tecnologias utilizadas
 
 - Python 3
-- (Bibliotecas utilizadas: `cls` .)
+- (Bibliotecas utilizadas: `cls`.)
 
 ## ✅ Atividades
 
