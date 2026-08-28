@@ -14,10 +14,10 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 
 ```
 📁 portfolio-etec/
-├── 📁 atividade-01/
-│   └── descrição, código e anotações
-├── 📁 atividade-02/
-│   └── descrição, código e anotações
+├── 📁 Lógica de Programação/
+│   └── habilidade de organizar instruções em sequência para o computador resolver problemas.
+├── 📁 Estrutura Condicional/
+│   └── comandos que executam um bloco de código apenas se uma condição for verdadeira.
 ├── 📁 ...
 └── README.md
 ```
