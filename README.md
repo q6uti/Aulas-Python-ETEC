@@ -1,19 +1,18 @@
-# 📚 Portfólio - Curso Técnico (ETEC)
-
-Repositório com as atividades desenvolvidas durante o **1º Semestre** do curso técnico, com foco em **Python**.
-
-## 🎓 Sobre
-
-- **Instituição:** Etec Ermelinda Giannini Teixeira
-- **Semestre:** 1º Semestre
-- **Foco:** Programação em Python
-
-Este repositório reúne os exercícios, projetos e atividades práticas realizadas ao longo do semestre, servindo como portfólio de aprendizado.
+## 📚 Sobre
+ 
+Este repositório reúne os códigos produzidos em aula e os exercícios propostos ao longo do curso técnico em **Desenvolvimento de Sistemas**, com o objetivo de praticar e consolidar os conceitos de lógica de programação e Python.
+ 
+| | |
+|---|---|
+| 🎓 **Curso** | Técnico em Desenvolvimento de Sistemas |
+| 🏫 **Instituição** | ETEC |
+| 👨‍🏫 **Professor** | [Caio Malheiros](https://github.com/caiomduarte) — [@caiomduarte](https://github.com/caiomduarte) |
+| 💻 **Linguagem** | ![Python](https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ## 🗂️ Estrutura do repositório
 
 ```
-📁 portfolio-etec/
+📁 Aulas-Python/
 ├── 📁 Lógica de Programação/
 │   └── atividades práticas de lógica de programação.
 ├── 📁 Estrutura Condicional/
@@ -21,11 +20,11 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 ├── 📁 ...
 └── README.md
 ```
+> Novas pastas serão adicionadas conforme os assuntos forem abordados em aula (ex: laços de repetição, funções, listas, etc.).
 
-## 🐍 Tecnologias utilizadas
+## Bibliotecas utilizadas:
 
-- Python 3
-- ( Bibliotecas utilizadas: `cls`. )
+- os — usada para limpar o terminal (os.system('cls'))
 
 ## ✅ Atividades
 
@@ -37,3 +36,4 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 
 ---
 
+Documentar minha evolução no aprendizado de Python durante o curso, servindo como portfólio de estudos e consulta futura.
