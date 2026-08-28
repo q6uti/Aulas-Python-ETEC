@@ -15,7 +15,7 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 ```
 📁 portfolio-etec/
 ├── 📁 Lógica de Programação/
-│   └── habilidade de organizar instruções em sequência para o computador resolver problemas.
+│   └── atividades práticas de lógica de programação.
 ├── 📁 Estrutura Condicional/
 │   └── exercícios sobre estruturas condicionais em Python (if, elif, else).
 ├── 📁 ...
