@@ -22,12 +22,10 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 └── README.md
 ```
 
-> Renomeie as pastas conforme o nome/número real de cada atividade.
-
 ## 🐍 Tecnologias utilizadas
 
 - Python 3
-- (adicione aqui bibliotecas usadas: ex. `math`, `random`, etc.)
+- (Bibliotecas utilizadas: `cls` .)
 
 ## ✅ Atividades
 
@@ -36,26 +34,6 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 | 01 | *Lógica de Programação* | *Breve descrição* | ✅ Concluída |
 | 02 | *Estrutura Condicional* | *Breve descrição* | 🔄 Em andamento |
 
-> Preencha a tabela com as atividades reais do semestre.
-
-## ▶️ Como executar
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Acesse a pasta da atividade desejada
-cd atividade-01
-
-# Execute o script
-python nome_do_arquivo.py
-```
-
-## 👤 Autor
-
-- Nome: *seu nome aqui*
-- Curso: Técnico - ETEC
-- Semestre: 1º Semestre
 
 ---
 
