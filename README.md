@@ -33,8 +33,8 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 
 | Nº | Atividade | Descrição | Status |
 |----|-----------|-----------|--------|
-| 01 | *Nome da atividade* | *Breve descrição* | ✅ Concluída |
-| 02 | *Nome da atividade* | *Breve descrição* | 🔄 Em andamento |
+| 01 | *Lógica de Programação* | *Breve descrição* | ✅ Concluída |
+| 02 | *Estrutura Condicional* | *Breve descrição* | 🔄 Em andamento |
 
 > Preencha a tabela com as atividades reais do semestre.
 
