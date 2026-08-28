@@ -4,7 +4,7 @@ Repositório com as atividades desenvolvidas durante o **1º Semestre** do curso
 
 ## 🎓 Sobre
 
-- **Instituição:** ETEC
+- **Instituição:** Etec Ermelinda Giannini Teixeira
 - **Semestre:** 1º Semestre
 - **Foco:** Programação em Python
 
