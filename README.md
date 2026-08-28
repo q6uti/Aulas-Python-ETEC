@@ -17,7 +17,7 @@ Este repositório reúne os exercícios, projetos e atividades práticas realiza
 ├── 📁 Lógica de Programação/
 │   └── habilidade de organizar instruções em sequência para o computador resolver problemas.
 ├── 📁 Estrutura Condicional/
-│   └── exercícios sobre estruturas condicionais em Python (if, elif, else) — lógica de decisão aplicada a problemas práticos.
+│   └── exercícios sobre estruturas condicionais em Python (if, elif, else)s.
 ├── 📁 ...
 └── README.md
 ```
