@@ -4,8 +4,7 @@ Este repositório reúne os códigos produzidos em aula e os exercícios propost
  
 | | |
 |---|---|
-| 🎓 **Curso** | Técnico em Desenvolvimento de Sistemas |
-| 🏫 **Instituição** | ETEC |
+| 🎓 **Curso** | Técnico em Desenvolvimento de Sistemas 
 | 👨‍🏫 **Professor** | [Caio Malheiros](https://github.com/caiomduarte) — [@caiomduarte](https://github.com/caiomduarte) |
 | 💻 **Linguagem** | ![Python](https://img.shields.io/badge/Python%203-3776AB?style=flat-square&logo=python&logoColor=white) |
 
