@@ -17,3 +17,5 @@ if idade >= 18:
 
 else:
     print("Você é de menor!")
+
+input("Precione Enter para finalizar o proramaga...")
