@@ -13,3 +13,5 @@ if a1 > 18:
 # SENÃO (se ele NÃO FOR maior ou igual a 18, ou seja, se for menor):
 else:
     print("Você é menor de idade.")
+
+input("Precione Enter para finalizar o proramaga...")
