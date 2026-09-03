@@ -1,7 +1,7 @@
 import os
 os.system("cls")
 
-temperatura = int(input("Digite a temperatura atual: "))
+temperatura = float(input("Digite a temperatura atual: "))
 
 if temperatura >= 30:
     print("Está Quente!")
