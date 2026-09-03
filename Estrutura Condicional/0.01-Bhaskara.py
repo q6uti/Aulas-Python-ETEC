@@ -15,3 +15,5 @@ elif delta == 0:
 
 else:
     print(f"A equação não possui raízes reais. \n {delta}")
+
+input("Precione Enter para finalizar o proramaga...")
