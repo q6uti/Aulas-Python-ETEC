@@ -9,3 +9,5 @@ elif temperatura >= 20:
     print("Está agradável")
 else:
     print("Está frio!")
+
+input("Precione Enter para finalizar o proramaga...")
